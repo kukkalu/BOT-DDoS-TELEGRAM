@@ -13,7 +13,7 @@ from telepot.namedtuple import ReplyKeyboardMarkup, KeyboardButton
 
 
 webhook_url = ''  # discord webhook here
-TOKEN = ''  # your bot token here
+TOKEN = '6599725318:AAH-Bvp6bX9mP4a8uwOOECrLPGU0x0LiQgM'  # your bot token here
 
 attack_slots = 2
 attack_slots_lock = threading.Lock()
